@@ -1,6 +1,8 @@
 # How To Play
 
-Two users are needed to play: players x and o. The objective of the game is to mark 3 locations on the 3x3 board diagonally, horizontally, or vertically. Player x's turn is first. Enter the x and y 0-based integer coordinates corresponding to the location in which the user desires to mark. Players take turns marking new locations until either one of the players acheives the objective and wins or neither does and the players tie.
+Two users are needed to play: players x and o. The objective of the game is to mark 3 locations on the 3x3 board diagonally, horizontally, or vertically. Player x's turn is first. Enter the x and y 0-based integer coordinates corresponding to the location in which the user desires to mark. A visual representation of the (x,y) coordinates corresponding to all the board locations is shown here. Players take turns marking new locations until either one of the players acheives the objective and wins or neither does and the players tie.
+
+![tictactoe_locations](images/tictactoe_locations.png)
 
 # Usage
 
